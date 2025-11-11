@@ -125,3 +125,5 @@ fabric.properties
 ./.idea
 /.idea
 
+.env.prod
+.env
